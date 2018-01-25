@@ -1,13 +1,13 @@
 body {
     margin: 20px;
     padding: 0;
-    background: #333;
+    background: lightgrey;
 }
 
 .container {
-    max-width: 760px;
+    max-width: 560px;
     margin: auto;
-    border: #fff solid 3px;
+    border: #fff solid 4px;
     background: #fff;
 }
 
@@ -18,5 +18,16 @@ body {
 .imgs {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-gap: 5px;
+    grid-gap: 4px;
+}
+
+@keyframes fadeIn{
+    to{
+        opacity: 1;
+    }
+}
+
+.fade-in {
+    opacity: 0;
+    animation: fadeIn .5s ease-in 1 forwards;
 }
