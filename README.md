@@ -1,4 +1,4 @@
-# [Dinamic Image Gallery with Thumbnails](https://elena-in-code.github.io/Image-gallery-thumbnails/ "live sample")
+# [Dynamic Image Gallery with Thumbnails](https://elena-in-code.github.io/Image-gallery-thumbnails/ "live sample")
 
 
 ![](https://user-images.githubusercontent.com/30567608/35387171-f50844d6-01ce-11e8-8524-d66b66f4d11e.gif "gif of the working app")
